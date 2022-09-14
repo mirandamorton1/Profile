@@ -6,12 +6,15 @@ This portfolio was built with the help of bootstrap!
 
 The porfolio is deployed here: https://mirandamorton1.github.io/Profile/
 
-  ## Table of contents
+  ## Table of Contents
   * [Description](#description)
+  * [Usage](#usage)
   * [Contributors](#contributors)
   * [Technology Used](#technology-used)
   * [Questions](#questions)
 
+  ### Usage:
+  Use the navigation bar to see different sections of my portfolio.
   
   ### Contributors: 
 In order to contribute to this portfolio, cline this repo locally and commit your code on a separate branch.
