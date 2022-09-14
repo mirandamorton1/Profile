@@ -23,12 +23,13 @@ The porfolio is deployed here: https://mirandamorton1.github.io/Profile/
 In order to contribute to this portfolio, cline this repo locally and commit your code on a separate branch.
 #### Contributors:
 Miranda Morton
-  ### Tests:
-  To test this app: npm test
   ### Technology Used:
   - HTML
   - CSS
+  - JavaScript
+  - Bootstrap
   ### Questions:
   If you have any questions regarding this app, feel free to contact me: 
-  My GitHub profile can be found here: https://github.com/mirandamorton1     
-  You can email me at: miranda.morton1@gmail.com.
+  GitHub: https://github.com/mirandamorton1     
+  Email: miranda.morton1@gmail.com.
+  This project can be found at: https://github.com/mirandamorton1/Profile
