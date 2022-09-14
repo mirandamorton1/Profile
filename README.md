@@ -9,14 +9,8 @@ The porfolio is deployed here: https://mirandamorton1.github.io/Profile/
   ## Table of contents
   * [Description](#description)
   * [Contributors](#contributors)
-  * [Tests](#test)
   * [Technology Used](#technology-used)
   * [Questions](#questions)
-  ### Installation:
-  Notes about the install:npm i
-  ### Usage
-  In order to use this app: You can use it by..
-  ### License
 
   
   ### Contributors: 
@@ -30,6 +24,7 @@ Miranda Morton
   - Bootstrap
   ### Questions:
   If you have any questions regarding this app, feel free to contact me: 
+  
   GitHub: https://github.com/mirandamorton1     
   Email: miranda.morton1@gmail.com.
   This project can be found at: https://github.com/mirandamorton1/Profile
