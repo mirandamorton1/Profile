@@ -28,6 +28,6 @@ Miranda Morton
   ### Questions:
   If you have any questions regarding this app, feel free to contact me: 
   
-  GitHub: https://github.com/mirandamorton1     
-  Email: miranda.morton1@gmail.com.
-  This project can be found at: https://github.com/mirandamorton1/Profile
+  #### GitHub: https://github.com/mirandamorton1     
+  #### Email: miranda.morton1@gmail.com.
+  This project: https://github.com/mirandamorton1/Profile
