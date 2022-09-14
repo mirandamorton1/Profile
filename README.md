@@ -17,7 +17,7 @@ The porfolio is deployed here: https://mirandamorton1.github.io/Profile/
   Use the navigation bar to see different sections of my portfolio.
   
   ### Contributors: 
-In order to contribute to this portfolio, cline this repo locally and commit your code on a separate branch.
+In order to contribute to this portfolio, clone this repo locally and commit your code on a separate branch.
 #### Contributors:
 Miranda Morton
   ### Technology Used:
