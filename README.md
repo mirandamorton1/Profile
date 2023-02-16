@@ -44,4 +44,4 @@
   If you have any questions regarding this app, feel free to contact me: 
   #### GitHub: https://github.com/mirandamorton1   
   #### Email: miranda.morton1@gmail.com
-  #### This project: mirandamorton1.github.io/Profile/
+  #### This project: https://mirandamorton1.github.io/Profile/
