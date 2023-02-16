@@ -36,7 +36,9 @@
   - CSS
   
   ### Screenshots:
-  
+  /Users/mirandamorton/Documents/Portfolio/Portfolio/assets/img/portfolio/Screenshot 2023-02-16 at 10.46.18 AM.png
+  /Users/mirandamorton/Documents/Portfolio/Portfolio/assets/img/portfolio/Screenshot 2023-02-16 at 10.46.30 AM.png
+  /Users/mirandamorton/Documents/Portfolio/Portfolio/assets/img/portfolio/Screenshot 2023-02-16 at 10.46.42 AM.png
   
   ### Contributors: 
   To contribute to this project, clone this repo locally and commit your code on a separate branch. 
