@@ -36,9 +36,10 @@
   - CSS
   
   ### Screenshots:
-  /Users/mirandamorton/Documents/Portfolio/Portfolio/assets/img/portfolio/Screenshot 2023-02-16 at 10.46.18 AM.png
-  /Users/mirandamorton/Documents/Portfolio/Portfolio/assets/img/portfolio/Screenshot 2023-02-16 at 10.46.30 AM.png
-  /Users/mirandamorton/Documents/Portfolio/Portfolio/assets/img/portfolio/Screenshot 2023-02-16 at 10.46.42 AM.png
+![Screenshot 2023-02-16 at 10 46 18 AM](https://user-images.githubusercontent.com/107001559/219421587-acdaf66d-edd9-4594-889d-616b17be19e7.png)
+![Screenshot 2023-02-16 at 10 46 30 AM](https://user-images.githubusercontent.com/107001559/219421616-ad5478aa-dd6a-4a8f-9642-3a2b1c494100.png)
+![Screenshot 2023-02-16 at 10 46 42 AM](https://user-images.githubusercontent.com/107001559/219421636-87ca9382-55fd-4cd4-b30f-c422145d26f1.png)
+
   
   ### Contributors: 
   To contribute to this project, clone this repo locally and commit your code on a separate branch. 
